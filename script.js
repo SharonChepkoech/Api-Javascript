@@ -1,4 +1,3 @@
-// fetching Api
 let fetch = require("node-fetch")
 fetch('https://jsonplaceholder.typicode.com/todos',{
     method: 'POST',
